@@ -9,7 +9,7 @@ Restraunt Lifestyle
 
 ![image](https://img.shields.io/badge/KUMAR-SARVESH-orange)
 
-[<img src= "https://img.shields.io/badge/PROJECT LINK-20b?style=for-the-badge&logo=&logoColor=white" /> ](https://lco-apparel-landing-page.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJECT LINK-20b?style=for-the-badge&logo=&logoColor=white" /> ](https://restraunt-life-style.netlify.app/)
 
 ## About
 
@@ -25,9 +25,6 @@ In future I will try to make it fully responive.
 ## Time taken to finish this project?
 
 Although this project looks simple and easy but when I started working on it, it took me around 5 to 6 hour to finish it.
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/70770975/233795186-328e0ae4-deea-42ed-bf9b-b4e9a9ff59a6.png)
 
 
 
